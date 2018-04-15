@@ -1,0 +1,17 @@
+.form {
+  &__data {
+    padding: 10px;
+  }
+
+  &__selected {
+    background-color: grey;
+    color: white;
+  }
+
+  &__delete_btn {
+    float: right;
+    color: white;
+    background: grey;
+    position: absolute;
+  }
+}
